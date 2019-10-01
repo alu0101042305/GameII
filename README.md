@@ -9,4 +9,4 @@ puntos, además los productos desperdiciados en el servicio descontarán puntos 
 es conseguir el mayor número de puntos en el tiempo de servicio.
 
 # Mockup
-![](https://github.com/alu0101042305/GameII/blob/master/img/mockup.png)
+![](https://github.com/alu0101042305/GameII/blob/master/img/mockup.png=250x)
