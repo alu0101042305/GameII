@@ -8,5 +8,5 @@ tardado en completar, no obstante si pasa demasiado tiempo el pedido será cance
 puntos, además los productos desperdiciados en el servicio descontarán puntos al final. El objetivo del juego
 es conseguir el mayor número de puntos en el tiempo de servicio.
 
-# Mockup
+## Mockup
 <img src="./img/mockup.png" width="300">
