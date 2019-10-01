@@ -1,5 +1,6 @@
 # Overcooked
 Nos hemos propuesto implementar una versión simplifiada del juego [Overcooked](https://store.steampowered.com/app/448510/Overcooked/?l=spanish).
+
 El juego es una simulación de una cocina, la cual se nos presenta con una vista isométrica, en la cual recibiremos
 pedidos, los cuales utilizando los ingredientes y herramientas presentes en la cocina deberemos de
 satisfacer. Al enviar un plato terminado si este es correcto se recibirán puntos dependiendo de cuanto se haya
