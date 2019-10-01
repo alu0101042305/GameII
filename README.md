@@ -7,3 +7,6 @@ satisfacer. Al enviar un plato terminado si este es correcto se recibirán punto
 tardado en completar, no obstante si pasa demasiado tiempo el pedido será cancelado y no se obtendrán los
 puntos, además los productos desperdiciados en el servicio descontarán puntos al final. El objetivo del juego
 es conseguir el mayor número de puntos en el tiempo de servicio.
+
+# Mockup
+![](https://github.com/alu0101042305/GameII/blob/master/img/mockup.png)
