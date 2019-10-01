@@ -1,3 +1,5 @@
 # Overcooked
 
 El juego es una simulación de una cocina, la cual se nos presenta con una vista aérea, en la cual recibiremos pedidos, los cuales utilizando los ingredientes y herramientas presentes en la cocina deberemos de satisfacer. Al enviar un plato terminado si este es correcto se recibirán puntos dependiendo de cuanto se haya tardado en completar, no obstante si pasa demasiado tiempo el pedido será cancelado y no se obtendrán los puntos, además los productos desperdiciados en el servicio descontarán puntos al final. El objetivo del juego es conseguir el mayor número de puntos en el tiempo de servicio. 
+
+![Mockup](img/mockup.png)
